@@ -1,0 +1,7 @@
+C:\Users\sz2torben\Desktop\c#\Solutions\Feladat02\bin\Debug\Feladat02.exe.config
+C:\Users\sz2torben\Desktop\c#\Solutions\Feladat02\bin\Debug\Feladat02.exe
+C:\Users\sz2torben\Desktop\c#\Solutions\Feladat02\bin\Debug\Feladat02.pdb
+C:\Users\sz2torben\Desktop\c#\Solutions\Feladat02\obj\Debug\Feladat02.csproj.AssemblyReference.cache
+C:\Users\sz2torben\Desktop\c#\Solutions\Feladat02\obj\Debug\Feladat02.csproj.CoreCompileInputs.cache
+C:\Users\sz2torben\Desktop\c#\Solutions\Feladat02\obj\Debug\Feladat02.exe
+C:\Users\sz2torben\Desktop\c#\Solutions\Feladat02\obj\Debug\Feladat02.pdb

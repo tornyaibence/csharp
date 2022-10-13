@@ -1,0 +1,8 @@
+C:\Users\bence\Downloads\drive-download-20220912T191718Z-001\Feladat05_hazi\bin\Debug\Feladat05_hazi.exe.config
+C:\Users\bence\Downloads\drive-download-20220912T191718Z-001\Feladat05_hazi\bin\Debug\Feladat05_hazi.exe
+C:\Users\bence\Downloads\drive-download-20220912T191718Z-001\Feladat05_hazi\bin\Debug\Feladat05_hazi.pdb
+C:\Users\bence\Downloads\drive-download-20220912T191718Z-001\Feladat05_hazi\obj\Debug\Feladat05_hazi.csproj.AssemblyReference.cache
+C:\Users\bence\Downloads\drive-download-20220912T191718Z-001\Feladat05_hazi\obj\Debug\Feladat05_hazi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bence\Downloads\drive-download-20220912T191718Z-001\Feladat05_hazi\obj\Debug\Feladat05_hazi.csproj.CoreCompileInputs.cache
+C:\Users\bence\Downloads\drive-download-20220912T191718Z-001\Feladat05_hazi\obj\Debug\Feladat05_hazi.exe
+C:\Users\bence\Downloads\drive-download-20220912T191718Z-001\Feladat05_hazi\obj\Debug\Feladat05_hazi.pdb

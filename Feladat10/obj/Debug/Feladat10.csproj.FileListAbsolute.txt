@@ -1,0 +1,8 @@
+C:\Users\bence\source\repos\Feladat10_hazi\Feladat10\bin\Debug\Feladat10.exe.config
+C:\Users\bence\source\repos\Feladat10_hazi\Feladat10\bin\Debug\Feladat10.exe
+C:\Users\bence\source\repos\Feladat10_hazi\Feladat10\bin\Debug\Feladat10.pdb
+C:\Users\bence\source\repos\Feladat10_hazi\Feladat10\obj\Debug\Feladat10.csproj.AssemblyReference.cache
+C:\Users\bence\source\repos\Feladat10_hazi\Feladat10\obj\Debug\Feladat10.csproj.SuggestedBindingRedirects.cache
+C:\Users\bence\source\repos\Feladat10_hazi\Feladat10\obj\Debug\Feladat10.csproj.CoreCompileInputs.cache
+C:\Users\bence\source\repos\Feladat10_hazi\Feladat10\obj\Debug\Feladat10.exe
+C:\Users\bence\source\repos\Feladat10_hazi\Feladat10\obj\Debug\Feladat10.pdb

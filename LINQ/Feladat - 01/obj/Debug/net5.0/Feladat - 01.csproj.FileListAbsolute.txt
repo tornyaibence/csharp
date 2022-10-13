@@ -1,0 +1,38 @@
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.csproj.AssemblyReference.cache
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.GeneratedMSBuildEditorConfig.editorconfig
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.AssemblyInfoInputs.cache
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.AssemblyInfo.cs
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.csproj.CoreCompileInputs.cache
+d:\Temp\Feladat - 01\bin\Debug\net5.0\Player.cs
+d:\Temp\Feladat - 01\bin\Debug\net5.0\Feladat - 01.exe
+d:\Temp\Feladat - 01\bin\Debug\net5.0\Feladat - 01.deps.json
+d:\Temp\Feladat - 01\bin\Debug\net5.0\Feladat - 01.runtimeconfig.json
+d:\Temp\Feladat - 01\bin\Debug\net5.0\Feladat - 01.runtimeconfig.dev.json
+d:\Temp\Feladat - 01\bin\Debug\net5.0\Feladat - 01.dll
+d:\Temp\Feladat - 01\bin\Debug\net5.0\Feladat - 01.pdb
+d:\Temp\Feladat - 01\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.csproj.CopyComplete
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.dll
+d:\Temp\Feladat - 01\obj\Debug\net5.0\refint\Feladat - 01.dll
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.pdb
+d:\Temp\Feladat - 01\obj\Debug\net5.0\Feladat - 01.genruntimeconfig.cache
+d:\Temp\Feladat - 01\obj\Debug\net5.0\ref\Feladat - 01.dll
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\Player.cs
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\Feladat - 01.exe
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\Feladat - 01.deps.json
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\Feladat - 01.runtimeconfig.json
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\Feladat - 01.runtimeconfig.dev.json
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\Feladat - 01.dll
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\ref\Feladat - 01.dll
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\Feladat - 01.pdb
+J:\2022-2023\c#\LINQ\Feladat - 01\bin\Debug\net5.0\Newtonsoft.Json.dll
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.csprojAssemblyReference.cache
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.GeneratedMSBuildEditorConfig.editorconfig
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.AssemblyInfoInputs.cache
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.AssemblyInfo.cs
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.csproj.CoreCompileInputs.cache
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.csproj.CopyComplete
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.dll
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\ref\Feladat - 01.dll
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.pdb
+J:\2022-2023\c#\LINQ\Feladat - 01\obj\Debug\net5.0\Feladat - 01.genruntimeconfig.cache
