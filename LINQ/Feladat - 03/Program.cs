@@ -41,10 +41,10 @@ namespace Feladat___03
             WriteToConsole("Data", _motorcycles);
 
             // 1 - Hány motorkerékpár van az 'adatbázisban' ?
-
+            int hanyDarab = _motorcycles.Count;
 
             // 2 - Hány 'Honda' gyártmányú motorkerékpár van az 'adatbázisban' ?
-
+            int hanyHonda = _motorcycles.Where(x => x.Brand().ToLower == "honda");
 
             // 3 - Mekkora a legnyaobb köbcenti az 'adatbázisban' ?
 
