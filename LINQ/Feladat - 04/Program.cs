@@ -4,6 +4,7 @@ using System.IO;
 using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
+using System.Linq;
 
 namespace Feladat___04
 {
@@ -52,26 +53,44 @@ namespace Feladat___04
         }
 
         // 1 - Hány film adatát dolgozzuk fel?
+        int hanyFilm = _movies.Count;
 
         // 2 - Mekkora bevételt hoztak a filmek Amerikában?
+        int bevetelAmerikaban = _movies.Where(x => x.USGross.HasValue)
+                                                             .Sum(x => x.USGross.Value);
 
         // 3 - Mekkora bevételt hoztak a filmek Világszerte?
+        long bevetelVilagban = _movies.Where(x => x.WorldwideGross.HasValue)
+                                                        .Sum(x => x.WorldwideGross.Value);
 
         // 4 - Hány film jelent meg az 1990-es években?
+        //int hanyFilmVan = _movies.Where((x => Release.Year = 1990);
 
         // 5 - Hányan szavaztak összessen az IMDB-n?
+        int hanyanSzavaztak = _movies.Where(x => x.IMDBVotes.HasValue)
+                                                          .Sum(x => x.IMDBVotes.Value);
 
         // 6 - Hányan szavaztak átlagossan az IMDB-n?
+        double hanyanSzavaztakAtlagban = _movies.Where(x => x.IMDBVotes.HasValue)
+                                                                              .Average(x => x.IMDBVotes.Value);
 
         // 7 - A filmek  világszerte átlagban mennyit hoztak a konyhára?
+        double atlagKereset = _movies.Where(x => x.WorldwideGross.HasValue)
+                                                         .Average(x => x.IMDBVotes.Value);
 
         // 8 - Hány filmet rendezett 'Christopher Nolan' ?
+        int hanyFilmet = _movies.Count(x => x.Director.ToLower() == "Christopher Nolan");
 
         // 9 - Melyik filmeket rendezte 'James Cameron'?
-
+        List<Movie> FilmByJC = _movies.Where(x => x.Director.ToLower() == "'James Cameron").ToList();
         // 10 - Keresse ki a 'Fantasy' kaland (Adventure) zsáner kategóriájjú filmeket.
-
+        List<Movie> fantasyVagyAdventure = _movies.Where(x => x.MajorGenre.ToLower() == "adventure")
+                                                                                .Where(x => x.CreativeType.ToLower() == "fantasy")
+                                                                                .ToList();
         // 11 - Kik rendeztek akció (Action) filmeket és mikor?
+        List<DirectorAndReleaseDate> kikRendeztekAkciotMikor = _movies.Where(x => x.MajorGenre.ToLower() == "action")
+                                                                                    .Select(x => new DirectorAndReleaseDate(x.Director, x.ReleaseDate))
+                                                                                    .ToList();
 
         // 12 - 'Paramount Pictures' horror filmjeinek cime?
 
@@ -82,6 +101,9 @@ namespace Feladat___04
         // 15 - Hány olyan film van amely az IMDB-n 6 feletti osztályzatot ért el és a 'Rotten Tomatoes'-n pedig legalább 25-t?
 
         // 16 - 'Michael Bay' filmjei átlagban mekkora bevételt hoztak?
+        long bevetelekMBtol = _movies.Where(x => x.WorldwideGross.HasValue)
+                                                         .Where(x => x.Director.ToLower == "michaelbay")
+                                                         .Sum(x => x.WorldwideGross.Value);
 
         // 17 - Melyek azok a 'Michael Bay' a 'Walt Disney Pictures' által forgalmazott fimek melyek legalább 150min hosszúak.
 
