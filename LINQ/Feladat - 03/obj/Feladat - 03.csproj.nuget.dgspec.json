@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\2022-2023\\c#\\LINQ\\Feladat - 03\\Feladat - 03.csproj": {}
+    "J:\\2022-2023\\c#\\csharp\\LINQ\\Feladat - 03\\Feladat - 03.csproj": {}
   },
   "projects": {
-    "J:\\2022-2023\\c#\\LINQ\\Feladat - 03\\Feladat - 03.csproj": {
+    "J:\\2022-2023\\c#\\csharp\\LINQ\\Feladat - 03\\Feladat - 03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\2022-2023\\c#\\LINQ\\Feladat - 03\\Feladat - 03.csproj",
+        "projectUniqueName": "J:\\2022-2023\\c#\\csharp\\LINQ\\Feladat - 03\\Feladat - 03.csproj",
         "projectName": "Feladat - 03",
-        "projectPath": "J:\\2022-2023\\c#\\LINQ\\Feladat - 03\\Feladat - 03.csproj",
+        "projectPath": "J:\\2022-2023\\c#\\csharp\\LINQ\\Feladat - 03\\Feladat - 03.csproj",
         "packagesPath": "C:\\Users\\sz2torben\\.nuget\\packages\\",
-        "outputPath": "J:\\2022-2023\\c#\\LINQ\\Feladat - 03\\obj\\",
+        "outputPath": "J:\\2022-2023\\c#\\csharp\\LINQ\\Feladat - 03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sz2torben\\AppData\\Roaming\\NuGet\\NuGet.Config",

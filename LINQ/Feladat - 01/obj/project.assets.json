@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\2022-2023\\c#\\LINQ\\Feladat - 01\\Feladat - 01.csproj",
+      "projectUniqueName": "J:\\2022-2023\\c#\\csharp\\LINQ\\Feladat - 01\\Feladat - 01.csproj",
       "projectName": "Feladat - 01",
-      "projectPath": "J:\\2022-2023\\c#\\LINQ\\Feladat - 01\\Feladat - 01.csproj",
+      "projectPath": "J:\\2022-2023\\c#\\csharp\\LINQ\\Feladat - 01\\Feladat - 01.csproj",
       "packagesPath": "C:\\Users\\sz2torben\\.nuget\\packages\\",
-      "outputPath": "J:\\2022-2023\\c#\\LINQ\\Feladat - 01\\obj\\",
+      "outputPath": "J:\\2022-2023\\c#\\csharp\\LINQ\\Feladat - 01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sz2torben\\AppData\\Roaming\\NuGet\\NuGet.Config",
