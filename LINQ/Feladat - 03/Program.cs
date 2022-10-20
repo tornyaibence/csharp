@@ -122,12 +122,21 @@ namespace Feladat___03
             // 25 - Rendezzül növekvő sorrende az 5 betűvel rendelkező gyártók motorkerékpárjait,
             //         majd csökkenő sorrendbe gyártási év alapján és az eredményben csak a nevet és
             //         a gyártási évet jelenítse meg!
+<<<<<<< HEAD
             //List<UtolsoFeladat> feladat = _motorcycles.Where(x => x.Brand.Length == 5)
             //                                                                     .OrderBy(x => x.Brand)
             //                                                                     .ThenByDescending(x => x.ReleaseYear)
             //                                                                     .Select(x => new UtolsoFeladat(x.Brand, x.ReleaseYear))
             //                                                                     .ToList();
             //Console.ReadLine();
+=======
+            List<UtolsoFeladat> feladat = _motorcycles.Where(x => x.Brand.Length == 5)
+                                                                                 .OrderBy(x => x.Brand)
+                                                                                 .ThenByDescending(x => x.ReleaseYear)
+                                                                                 .Select(x => new UtolsoFeladat(x.Brand, x.ReleaseYear))
+                                                                                 .ToList();
+            Console.ReadLine();
+>>>>>>> 8cfd8a7672628d6854e622928208ee585116c17e
         }
     }
 }
