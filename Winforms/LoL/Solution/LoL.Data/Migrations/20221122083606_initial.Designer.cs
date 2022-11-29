@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LoL.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20221122083634_initial")]
+    [Migration("20221122083606_initial")]
     partial class initial
     {
         /// <inheritdoc />
@@ -25,7 +25,7 @@ namespace LoL.Data.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("LoL.Data.Enities.Champion", b =>
+            modelBuilder.Entity("LoL.Data.Entities.Champion", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -39,7 +39,7 @@ namespace LoL.Data.Migrations
                     b.Property<int>("Hp")
                         .HasColumnType("int");
 
-                    b.Property<int>("Manna")
+                    b.Property<int>("Mana")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
@@ -57,7 +57,7 @@ namespace LoL.Data.Migrations
                     b.ToTable("Champion");
                 });
 
-            modelBuilder.Entity("LoL.Data.Enities.Role", b =>
+            modelBuilder.Entity("LoL.Data.Entities.Role", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -83,28 +83,28 @@ namespace LoL.Data.Migrations
                         new
                         {
                             Id = 2,
-                            Name = "Middle"
+                            Name = "Mid"
                         },
                         new
                         {
                             Id = 3,
-                            Name = "Adc"
+                            Name = "Support"
                         },
                         new
                         {
                             Id = 4,
-                            Name = "Jungle"
+                            Name = "Adc"
                         },
                         new
                         {
                             Id = 5,
-                            Name = "Support"
+                            Name = "Jungle"
                         });
                 });
 
-            modelBuilder.Entity("LoL.Data.Enities.Champion", b =>
+            modelBuilder.Entity("LoL.Data.Entities.Champion", b =>
                 {
-                    b.HasOne("LoL.Data.Enities.Role", "Role")
+                    b.HasOne("LoL.Data.Entities.Role", "Role")
                         .WithMany()
                         .HasForeignKey("RoleId")
                         .OnDelete(DeleteBehavior.Cascade)

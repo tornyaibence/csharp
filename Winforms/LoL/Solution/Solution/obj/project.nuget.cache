@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FzKvJ4rKIXvJ2Ap9F9oVLgWVduSwSjnUtUpgYfB31VtchkDvocEgtdHvBFVujtiYb20aOYoffZesc4fwynUAPw==",
+  "dgSpecHash": "hn1J4xJcl+4hTt020XhCdGnXFSQb5NBlQt1dTDlxlR7J2z9Hl+/LWaYU+uDPOzJmLUDh09LjDMrUWbj2LhApGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sz2torben\\Desktop\\C#\\Winforms\\LoL\\Solution\\Solution\\LoL.UI.csproj",
+  "projectFilePath": "C:\\Users\\sz2torben\\Desktop\\csar\\csharp\\WinForms\\LoL\\Solution\\Solution\\LoL.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sz2torben\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sz2torben\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

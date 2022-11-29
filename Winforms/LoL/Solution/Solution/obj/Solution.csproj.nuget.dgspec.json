@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sz2torben\\Desktop\\C#\\Winforms\\LoL\\Solution\\Solution\\Solution.csproj": {}
+    "C:\\Users\\sz2janatt\\Desktop\\c#\\C-Sharp_Orai\\Win forms\\LoL\\Solution\\Solution\\Solution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sz2torben\\Desktop\\C#\\Winforms\\LoL\\Solution\\Solution\\Solution.csproj": {
+    "C:\\Users\\sz2janatt\\Desktop\\c#\\C-Sharp_Orai\\Win forms\\LoL\\Solution\\Solution\\Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sz2torben\\Desktop\\C#\\Winforms\\LoL\\Solution\\Solution\\Solution.csproj",
+        "projectUniqueName": "C:\\Users\\sz2janatt\\Desktop\\c#\\C-Sharp_Orai\\Win forms\\LoL\\Solution\\Solution\\Solution.csproj",
         "projectName": "Solution",
-        "projectPath": "C:\\Users\\sz2torben\\Desktop\\C#\\Winforms\\LoL\\Solution\\Solution\\Solution.csproj",
-        "packagesPath": "C:\\Users\\sz2torben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sz2torben\\Desktop\\C#\\Winforms\\LoL\\Solution\\Solution\\obj\\",
+        "projectPath": "C:\\Users\\sz2janatt\\Desktop\\c#\\C-Sharp_Orai\\Win forms\\LoL\\Solution\\Solution\\Solution.csproj",
+        "packagesPath": "C:\\Users\\sz2janatt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sz2janatt\\Desktop\\c#\\C-Sharp_Orai\\Win forms\\LoL\\Solution\\Solution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sz2torben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sz2janatt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

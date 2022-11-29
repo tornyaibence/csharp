@@ -34,9 +34,9 @@ namespace LoL.Data.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
                     Hp = table.Column<int>(type: "int", nullable: false),
-                    Manna = table.Column<int>(type: "int", nullable: false),
-                    RoleId = table.Column<int>(type: "int", nullable: false),
-                    DateOfRelease = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    Mana = table.Column<int>(type: "int", nullable: false),
+                    DateOfRelease = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    RoleId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -55,10 +55,10 @@ namespace LoL.Data.Migrations
                 values: new object[,]
                 {
                     { 1, "Top" },
-                    { 2, "Middle" },
-                    { 3, "Adc" },
-                    { 4, "Jungle" },
-                    { 5, "Support" }
+                    { 2, "Mid" },
+                    { 3, "Support" },
+                    { 4, "Adc" },
+                    { 5, "Jungle" }
                 });
 
             migrationBuilder.CreateIndex(

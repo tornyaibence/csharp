@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace LoL.Data.Enities;
+namespace LoL.Data.Entities;
+
 [Table("Champion")]
 public class Champion
 {
@@ -19,14 +20,14 @@ public class Champion
 
     [Required]
     [Range(0, int.MaxValue)]
-    public int Manna { get; set; }
+    public int Mana { get; set; }
+
+    [Required]
+    public DateTime DateOfRelease { get; set; }
 
     [Required]
     [ForeignKey("Role")]
     public int RoleId { get; set; }
-
-    [Required]
-    public DateTime DateOfRelease { get; set; }   
 
     public virtual Role Role { get; set; }
 }
